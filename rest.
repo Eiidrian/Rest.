@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Gourmet Haven</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Gourmet Haven</div>
+        <nav>
+            <a href="#history">History</a>
+            <a href="#spaces">Spaces</a>
+            <a href="#facilities">Facilities</a>
+            <a href="#menu">Menu</a>
+            <a href="#staff">Staff</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- History Section -->
+        <section id="history">
+            <h1>Our History</h1>
+            <p>
+                Established in 1995, Gourmet Haven has been a cornerstone of culinary excellence in our community. 
+                What started as a family-owned bistro has evolved into a beloved dining destination, known for our
+                dedication to fresh ingredients, creative dishes, and an inviting atmosphere. Every plate tells a 
+                story of passion and heritage.
+            </p>
+            <img src="images/history.jpg" alt="A glimpse into our restaurant's history">
+        </section>
+
+        <!-- Spaces Section -->
+        <section id="spaces">
+            <h1>Our Spaces</h1>
+            <p>
+                Whether you’re celebrating a special occasion or simply enjoying a night out, our thoughtfully designed 
+                spaces provide the perfect setting. Choose from our elegant main dining area, cozy private rooms, or our 
+                beautiful outdoor patio surrounded by lush greenery.
+            </p>
+            <img src="images/spaces.jpg" alt="Beautiful dining spaces">
+        </section>
+
+        <!-- Facilities Section -->
+        <section id="facilities">
+            <h1>Our Facilities</h1>
+            <p>
+                We’ve designed our restaurant with your comfort in mind. From accessibility to modern amenities, 
+                every detail is crafted to enhance your dining experience.
+            </p>
+            <ul>
+                <li>Wheelchair Accessible Entrances</li>
+                <li>High-Speed Wi-Fi</li>
+                <li>Private Event Rooms</li>
+                <li>Kids’ Play Area</li>
+                <li>On-site Parking</li>
+            </ul>
+            <img src="images/facilities.jpg" alt="Modern restaurant facilities">
+        </section>
+
+        <!-- Menu Section -->
+        <section id="menu">
+            <h1>Our Menu</h1>
+            <p>
+                At Gourmet Haven, our menu reflects a fusion of tradition and innovation. From handcrafted appetizers 
+                to signature main courses and delectable desserts, there’s something for everyone to savor.
+            </p>
+            <h2>Highlights:</h2>
+            <ul>
+                <li>Classic Lobster Bisque</li>
+                <li>Truffle-infused Risotto</li>
+                <li>Seasonal Farm-to-Table Salads</li>
+                <li>Signature Chocolate Lava Cake</li>
+            </ul>
+            <img src="images/menu.jpg" alt="A snapshot of our delicious menu items">
+        </section>
+
+        <!-- Staff Section -->
+        <section id="staff">
+            <h1>Meet Our Team</h1>
+            <p>
+                Our talented and passionate team is the heart of Gourmet Haven. Led by Executive Chef Emily Turner, 
+                each member brings dedication and expertise to deliver an unforgettable dining experience. From our 
+                welcoming hosts to our skilled kitchen staff, we are here to serve you.
+            </p>
+            <img src="images/staff.jpg" alt="Our dedicated restaurant team">
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h1>Contact & Location</h1>
+            <p>
+                We look forward to welcoming you! Feel free to reach out for reservations, events, or inquiries.
+            </p>
+            <p><strong>Address:</strong> 123 Gourmet Lane, Foodie City, FC 45678</p>
+            <p><strong>Phone:</strong> (123) 456-7890</p>
+            <p><strong>Email:</strong> contact@gourmethaven.com</p>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.021556409161!2d-122.40136408468123!3d37.78583477975706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c1d0e9e53%3A0x883e0b041b40b594!2s123%20Gourmet%20Lane!5e0!3m2!1sen!2sus!4v1636611952058!5m2!1sen!2sus"
+                width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Gourmet Haven. All rights reserved.</p>
+    </footer>
+</body>
+</html>
